@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Teléfono inteligente",
+    "description": "Teléfono inteligente de última generación con funciones avanzadas.",
+    "code": "SMART001",
+    "price": 599.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Auriculares inalámbricos",
+    "description": "Auriculares inalámbricos con cancelación de ruido y calidad de sonido excepcional.",
+    "code": "HEADPHONES002",
+    "price": 129.99,
+    "status": true,
+    "stock": 75,
+    "category": "Electrónicos",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Tableta digitalizadora",
+    "description": "Tableta digitalizadora para artistas y diseñadores, con alta sensibilidad y precisión.",
+    "code": "TABLET003",
+    "price": 199.99,
+    "status": true,
+    "stock": 30,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url3",
+      "url4"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cámara de seguridad WiFi",
+    "description": "Cámara de seguridad WiFi con visión nocturna y detección de movimiento.",
+    "code": "CAMERA004",
+    "price": 79.99,
+    "status": true,
+    "stock": 60,
+    "category": "Electrónicos",
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Laptop ultradelgada",
+    "description": "Laptop ultradelgada con potente rendimiento y diseño elegante.",
+    "code": "LAPTOP005",
+    "price": 899.99,
+    "status": true,
+    "stock": 25,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url5",
+      "url6"
+    ]
+  }
+]
